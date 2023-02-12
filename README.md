@@ -1,6 +1,8 @@
 # 361microservice
 Microservice provided for 361 class
 
+See "Sequence Diagram.png"
+
 Communication Contract:
 1. Set up communication port via zmq
 Example:
