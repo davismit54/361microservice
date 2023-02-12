@@ -2,6 +2,7 @@
 Microservice provided for 361 class
 
 See "Sequence Diagram.png"
+![Sequence Diagram](https://github.com/davismit54/361microservice/blob/main/Sequence%20Diagram.png)
 
 Communication Contract:
 1. Set up communication port via zmq
